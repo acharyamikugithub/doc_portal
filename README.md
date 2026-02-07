@@ -35,3 +35,7 @@ git push
 ```
 git clone https://github.com/acharyamikugithub/doc_portal.git
 ```
+### minimum requiremnts for this project
+1).LLM Model ##groq(freely),openai(paid),gemini(15days free acess),claude(paid),huggingface(freely),ollama(local setup)
+2.Embedding model ##openai,hf,gemini
+3.vectordatabase ##inmemory,##ondisk,##calude
